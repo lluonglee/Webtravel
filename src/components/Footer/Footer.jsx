@@ -112,6 +112,33 @@ const Footer = () => {
                 Payment
               </li>
             </div>
+
+          {/* group three */}
+          <div data-aos="fade-up" data-aos-duration="5000" className="linkGroup">
+              <span className="groupTitle">DESIGNER</span>
+
+              <li className="footerList flex">
+                <FaChevronRight className="icon" />
+                Services
+              </li>
+              <li className="footerList flex">
+                <FaChevronRight className="icon" />
+                Insurance
+              </li>
+              <li className="footerList flex">
+                <FaChevronRight className="icon" />
+                Agency
+              </li>
+
+              <li className="footerList flex">
+                <FaChevronRight className="icon" />
+                Tourism
+              </li>
+              <li className="footerList flex">
+                <FaChevronRight className="icon" />
+                Payment
+              </li>
+            </div>
           </div>
 
           <div className="footerDIv flex">
