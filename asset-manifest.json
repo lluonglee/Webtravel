@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lluonglee/Webtravel.git/static/css/main.7c74bd47.css",
+    "main.js": "/lluonglee/Webtravel.git/static/js/main.606121b6.js",
+    "static/media/video2.mp4": "/lluonglee/Webtravel.git/static/media/video2.d21c25740d4cb622f14a.mp4",
+    "static/media/img(1).jpg": "/lluonglee/Webtravel.git/static/media/img(1).0845a40955b8c8aafa36.jpg",
+    "static/media/img.jpg": "/lluonglee/Webtravel.git/static/media/img.7eb217f39781fb83d249.jpg",
+    "static/media/video.mp4": "/lluonglee/Webtravel.git/static/media/video.8fe6eb6e0b58aea1258c.mp4",
+    "index.html": "/lluonglee/Webtravel.git/index.html",
+    "main.7c74bd47.css.map": "/lluonglee/Webtravel.git/static/css/main.7c74bd47.css.map",
+    "main.606121b6.js.map": "/lluonglee/Webtravel.git/static/js/main.606121b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c74bd47.css",
+    "static/js/main.606121b6.js"
+  ]
+}
